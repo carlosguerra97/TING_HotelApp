@@ -42,6 +42,7 @@
     <h1>
       Hotel_TING_2019
     </h1>
+    <a href="/info.html"><button id="butInfo" aria-label="Home"></button></a>
   </header>
 
   <main class="main">
@@ -69,13 +70,17 @@
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-	    navigator.serviceWorker.register('/public/service-worker.js')
+	    navigator.serviceWorker.register('/service-worker.js')
 	    .then((reg) => {
 	      console.log('Service worker registered.', reg);
 	    });
       });
     }
   </script>
-
 </body>
 </html>
+
+
+
+
+

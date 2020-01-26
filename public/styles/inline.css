@@ -75,6 +75,10 @@ body {
   width: 24px;
 }
 
+.header #butInfo {
+  background: url(/images/Info.svg) center center no-repeat;
+}
+
 .header #butHome {
   background: url(/images/Home.svg) center center no-repeat;
 }

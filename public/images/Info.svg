@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Home.svg">
+   sodipodi:docname="Info.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,7 +27,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="235.62362"
-     inkscape:cy="374.69907"
+     inkscape:cy="252.33178"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -142,22 +142,16 @@
        cx="67.73333"
        d=""
        inkscape:connector-curvature="0" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.12063599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect864"
-       width="85.914421"
-       height="71.156113"
-       x="24.777061"
-       y="215.17004" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.12063599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 24.777063,215.17002 67.734277,172.2128"
-       id="path866"
-       inkscape:connector-curvature="0" />
-    <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.12063599;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 110.6896,215.16815 67.734273,172.2128"
-       id="path866-3"
-       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:123.47222137px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.157494"
+       y="272.37341"
+       id="text856"><tspan
+         sodipodi:role="line"
+         id="tspan854"
+         x="33.157494"
+         y="272.37341"
+         style="font-size:123.47222137px;stroke-width:0.26458332">?</tspan></text>
   </g>
 </svg>
