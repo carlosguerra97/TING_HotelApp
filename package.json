@@ -2,7 +2,6 @@
   "name": "Hotel Web App",
   "version": "1.0.0",
   "description": "Trabajo individual TING 2019",
-  "homepage": "https://codelabs.developers.google.com/codelabs/your-first-pwapp/",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
