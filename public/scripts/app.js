@@ -1,7 +1,7 @@
 'use strict';
 
 function init() {
-  //document.getElementById('butRefresh').addEventListener('click', cambiarLista);
+  //document.getElementById('butHome').addEventListener('click', cambiarLista);
 }
 
 init();

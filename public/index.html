@@ -65,13 +65,11 @@
       </div>
     </div>
   </main>
-
-  <script src="/scripts/luxon-1.11.4.js"></script>
   <script src="/scripts/app.js"></script>
   <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-	    navigator.serviceWorker.register('/service-worker.js')
+	    navigator.serviceWorker.register('/public/service-worker.js')
 	    .then((reg) => {
 	      console.log('Service worker registered.', reg);
 	    });
